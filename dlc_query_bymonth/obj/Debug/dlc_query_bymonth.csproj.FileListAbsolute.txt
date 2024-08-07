@@ -1,0 +1,7 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\bin\Debug\dlc_query_bymonth.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\bin\Debug\dlc_query_bymonth.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Debug\dlc_query_bymonth.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Debug\dlc_query_bymonth.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Debug\dlc_query_bymonth.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Debug\dlc_query_bymonth.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Debug\dlc_query_bymonth.Form1.resources

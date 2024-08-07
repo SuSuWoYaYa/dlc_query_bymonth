@@ -1,0 +1,10 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\bin\Release\dlc_query_bymonth.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\bin\Release\dlc_query_bymonth.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Release\dlc_query_bymonth.Form1.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Release\dlc_query_bymonth.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Release\dlc_query_bymonth.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Release\dlc_query_bymonth.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Release\dlc_query_bymonth.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\dlc_query_bymonth\dlc_query_bymonth\obj\Release\dlc_query_bymonth.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\dlc_query_bymonth-main\dlc_query_bymonth\obj\Release\dlc_query_bymonth.exe
+C:\Users\Administrator\Desktop\dlc_query_bymonth-main\dlc_query_bymonth\obj\Release\dlc_query_bymonth.pdb
